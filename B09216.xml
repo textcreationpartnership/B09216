@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Half a sheet against Mr. Baxter:, or, A paraphrase upon a part of his works</title>
+            <author>Harrington, James.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09216</idno><idno type="EEBO-CITATION">64551304</idno>
+  <idno type="VID">184600</idno>
+  <idno type="EEBO-PROQUEST">2240865506</idno>
+  
+            <idno type="OCLC"> 64551304</idno>
+            <idno type="STC">Wing H813A</idno>
+            <idno type="STC">ESTC R224306</idno>
+            <idno type="OCLC">64551304</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184600)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Half a sheet against Mr. Baxter:, or, A paraphrase upon a part of his works</title>
+                  <author>Harrington, James.</author>
+                  <author>Baxter, Richard, 1615-1691. Crucifying of the world, by the cross of Christ.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:184600:1"/>
+            <head>Half a Sheet against Mr. <hi>Baxter:</hi> or, A PARAPHRASE upon a part of his Works.</head>
+            <p>MR. <hi>Baxter</hi> in the Preface of his Book intitled, <hi>The world crucified,</hi> addresseth himself unto <hi>the Nobility and Gentry, and all that have the riches of this world,</hi> in this manner.</p>
+            <p>
+               <hi>Were but your senses rational, or were your will but dis-engaged and mo<g ref="char:EOLhyphen"/>rally free,— what a shaking would Satans kingdom feel? then neither SE<g ref="char:EOLhyphen"/>DƲCERS]</hi> A vvord derived from Sea and Duck.</p>
+            <p>
+               <hi>Should have this pretence, nor the Seduced]</hi> Or such as follow like Sea-Ducks.</p>
+            <p>
+               <hi>This temptation to call their various Models]</hi> Or Decoys.</p>
+            <p>
+               <hi>By such splendid names]</hi> As <hi>Leviathan,</hi> that glowes like a Smelt; and <hi>Oceana,</hi> that foams Moonshine.</p>
+            <p>
+               <hi>And to think Christ reigns when they reign.]</hi> It was the judgement indeed of the Heathens, that where Laws reigned, there God reigned: but the Clergie know, that where such men as themselves reign, there onely can Christ reign.</p>
+            <p>
+               <hi>Or that it is the onely Government, to have all to be Governours]</hi> As in the 20 of <hi>Judges,</hi> where the whole people of <hi>Israel,</hi> or at least four hun<g ref="char:EOLhyphen"/>dred thousand of them, are all Governours.</p>
+            <p>
+               <hi>Which is but to have the greatest liberty to be bad.]</hi> Seeing that but for dealing with a Priests Leman, they destroyed <hi>Benjamin.</hi> It appears by the Text, that the four hundred thousand in <hi>Israel</hi> who did this, were foot; and it is thought that half the Horses in <hi>England</hi> are now dead: for whereas in the late Monarchy men might have been lucky unto Horse<g ref="char:EOLhyphen"/>flesh; later Parliaments, being all Governours, have quite spoiled the possibility.</p>
+            <p>
+               <hi>No Forms will reform us, till we are reformed within.]</hi> No Goal will hold a thief, till there be no thief.</p>
+            <p>
+               <hi>Lead will not be Gold, what form soever you mold it into.]</hi> Therefore dough cannot be molded and baked into bread.</p>
+            <p>
+               <hi>And though some ways may be more effectual to restrain the evil,]</hi> As the murderous and incestuous.</p>
+            <p>
+               <hi>And improve the good,]</hi> As industry.</p>
+            <p>
+               <hi>Yet still the wicked will do wickedly.]</hi> So that you had as good have no Laws at all against Murder, Incest, of Idleness, seeing they are not to be reformed, but at home or within.</p>
+            <p>
+               <hi>The Sword-fish and the Thresher.]</hi> Being good fishes, &amp; reformed within.</p>
+            <p>
+               <hi>Would be the tormentors of Leviathan.]</hi> But never look that men should be able to do that by Forms, or by their heads, which I tell you fishes can do with their snouts, or with their tayls.</p>
+            <p>
+               <hi>And the brother of Leviathan]</hi> For a Tyranny and a free Common<g ref="char:EOLhyphen"/>wealth are of the same venter.</p>
+            <p>
+               <hi>Would mend the matter, who by giving the power to the vast tumultuous Ocean it self.]</hi> For whatever is called <hi>Oceana,</hi> is first splendid in the name, and secondly tumultuous in the thing. But the Author's Com<g ref="char:EOLhyphen"/>monwealth is called <hi>Oceana:</hi> Therefore the Author's Commonwealth, name and thing, is splendid and tumultuous.</p>
+            <p>
+               <hi>He, I say, may finde]</hi> I warrant you, somewhere or other in his Book, though I have not had the leasure to look in it.</p>
+            <p>
+               <hi>That his Republike (an high commendation) is not onely inconsistent with a Clergie,]</hi> Forasmuch as it excludeth all such interest and ignorance as give sufficient latitude, and so forth.</p>
+            <p>
+               <hi>But may possbly]</hi> Though, for the reasons mentioned, I cannot rea<g ref="char:EOLhyphen"/>dily say where.</p>
+            <p>
+               <hi>Be as injurious to his moral honestie,]</hi> Much better known then mine.</p>
+            <p>
+               <hi>As any other sort of Tyranny.]</hi> For, in the 20 of <hi>Judges,</hi> where the whole people have the making of their own Laws, it is of that sort of Tyranny which was invented by <hi>Moses.</hi>
+            </p>
+            <p>
+               <hi>He might have learnt of his chief Master</hi> Seneca,] For the chief Ma<g ref="char:EOLhyphen"/>ster of your Political Heads must be <hi>Seneca</hi> or <hi>Euclide.</hi>
+            </p>
+            <p>
+               <hi>That the free citie of</hi> Athens] Free, as being then newly recovered of the Thirty Tyrants, otherwise greatly disordered in the Frame or Policy.</p>
+            <p>
+               <hi>Could less endure</hi> Socrates.] Being still invective against their cor<g ref="char:EOLhyphen"/>ruptions.</p>
+            <p>
+               <hi>Then the tyrants.]</hi> VVhom perforce they were to endure.</p>
+            <p>
+               <hi>And did put him whom the tyrants had tolerated, unto death.]</hi> Though according to Law, yet upon the testimony of false Witnesses, whose fraud (it is true) being afterwards discovered, the people put them also to death, or banished them, and erected a Statue for <hi>Socrates;</hi> a thing not yet done for Sir <hi>Thomas More</hi> or Sir <hi>Walter Raleigh.</hi> But of this, or, as some think, that in the Monarchies there have been thousands of like ex<g ref="char:EOLhyphen"/>amples for one in the Commonwealths, or that <hi>Seneca</hi> himself was put to death by <hi>Nero</hi> without either Law or accusers, I do not finde he maketh any mention.</p>
+            <p>
+               <hi>Gentlemen]</hi> Let me be <hi>plain and rouzing.</hi>
+            </p>
+            <p>
+               <hi>For the Lords sake, for your souls sake, give up your selves and all that you have]</hi> In such manner as is directed by my <hi>Catalogue of good works,</hi> that is, under the superintendencie of a Minister, or of a Clergie.</p>
+            <p>
+               <hi>Ʋnto God and Christ. Convince all self-conceited founders or troublers of the Commonwealth.]</hi> For Reason unanswerable, is Self-conceitedness, and to such of the Clergie who as my self are new christned with Court<g ref="char:EOLhyphen"/>holywater, so exceedingly troublesome, that we are agreed as one man to declare them that shall dare to use it, to be Seducers, self-conceited and absurd.</p>
+            <p>
+               <hi>Convince them, I say, that you have hit the way of true Reformation]</hi> Or of disbanding all Armies, abolishing all Taxes, and remedying all the grievances of this Nation.</p>
+            <p>
+               <hi>Without any alteration of the Form]</hi> Called, The humble Petition and Advice.</p>
+            <p>
+               <hi>By correcting your selves the principal materials.]</hi> Or by reducing all Government unto internal Principles, and resigning all internal princi<g ref="char:EOLhyphen"/>ples unto the direction of the Clergie. That <hi>Jethro</hi> was able to advise <hi>Moses,</hi> and that the wisdom of <hi>Ahitophel</hi> was as the Oracles of God, came from being reformed within: there, there lie the Principles of all Government.</p>
+            <p>
+               <hi>And let them see, by your seeking the weal of all]</hi> As we may think some Christians do in <hi>Turkie,</hi> and some Protestants in <hi>France.</hi>
+            </p>
+            <p>
+               <hi>That your Form is as truly a Commonwealth as theirs, and that they ab<g ref="char:EOLhyphen"/>surdly]</hi> Licurgly and with Burgly.</p>
+            <p>
+               <hi>Appropriate the title to their own. If you deny us this]</hi> Question which we beg for the Lords sake, namely, That all Government consisteth in internal principles, and so forth.</p>
+            <p>
+               <hi>On you be the blame and shame]</hi> That you will not swallow gudgeons.</p>
+            <p>
+               <hi>And not on our want of a Popular form]</hi> Who have made foot-balls of Parliaments.</p>
+         </div>
+      </body>
+      <back>
+         <div type="approbation">
+            <head>The PARAPHRASE perused.</head>
+            <p>MY Lords and Gentlemen, who have the Riches of this VVorld, and to whom Mr. <hi>Baxter</hi> hath appealed: Upon perusal of this Paraphrase, I desire you, as a matter of no less publick then private concernment, to look well unto your purses; and to have good attention unto what Mr. <hi>Baxter</hi> shall say, why he is not onely guilty of bearing false witness against his Neighbour, but also of all those Crimes whereof he, by such false witness, hath gone about to charge another: As first, of Absurdity, in having written divers fustian Sheets, full of like Absurdities unto those whereof he is hereby convinced; secondly, of self-conceitedness, by going still on in writing like fustian; thirdly, of trou<g ref="char:EOLhyphen"/>bling the Commonwealth, by defaming principles which he not so much as offers to confute; fourthly, of being a Seducer, in that his Doctrine is quite contrary to humane pru<g ref="char:EOLhyphen"/>dence; and indeed of sly Athiesm, in regard that his Doctrine being brought to light, is point-blank against Scripture: of all which Crimes and Enormities, I charge him before your Lordships; and to the end he may know his Accuser, subscribe</p>
+            <closer>
+               <signed>JAMES HARRINGTON.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>An APOLOGIE to the READER.</head>
+            <p>I <hi>Am sorry the Paraphrase should be so short of the Text. But if, in things subject unto Reason, a man, to fend Priestly scorn, must not strive who shall have the better Reason, but who shall be the most impertinent, and yet be worsted; what remedy? should we use such Arms as Divines (some reputed of the gravest in this Town, while without so much as an offer of any proof, it is familiar with them to call the Author of the Princi<g ref="char:EOLhyphen"/>ples hereby defended Atheist and Mad-man) would thrust into our hands, it were not our fault. But if they will once reason, or be civil, (it is upon some ground I make the promise) they shall have of either kinde, as much as they shall be able to bring in, or carry off. The hot-headedness of these men, and the depth of their dint, were well enough measur'd from the first, to prepare us for their Sallies: but it was never imagin'd, that, for their own honour, they would have attempted any thing in so flinching ways as backbiting, or this of Mr.</hi> Baxter's, <hi>who comes to no point, nei<g ref="char:EOLhyphen"/>ther charges nor asserts any Principle. Be therefore pleased, before you censure this Defence, to say ingenuously at what other ward you could have layn, in case of a like assault: and to have letten this pass, had been to be every day so assaulted.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>The main Question between Politicians and Divines, truly stated.</head>
+            <p>HAve such Laws as will save the Commonwealth, both the people and the Clergy will mind the Salvation of their Souls. But have the most effe<g ref="char:EOLhyphen"/>ctual Laws for the Salvation of Souls; if they will not save the Commonwealth, it is a Prey, for which not onely Lay-men, but the Clergy themselves, will venter their Souls: or where ever, in like cases, was it otherwise? Laws or Rules for the Salvation of Souls, must be left indeed un<g ref="char:EOLhyphen"/>to internal principles, or to choice, because through obedience by meer force, no Soul can be saved. But Laws or Rules for the safety of a Common<g ref="char:EOLhyphen"/>wealth, must be founded upon external principles, because through obedience by meer choice, no Commonwealth can be safe. Yet with Divines, a Politician so stating external principles, that they must needs have influence upon the internal, or Religion it self for good, is absurd, self-conceited, a Seducer, a Troubler of the Commonwealth, an Athiest, a Madman. VVhile Divines so stating internal principles, that they may have influence upon external, or Government for evil, must be learned, gracious, pretious, reverent, and I know not vvhat. Now this is foul play.</p>
+            <p>Upon consideration therefore of these things, and in order unto the better square of future disputation between Divines and Politicians, I shall make a fair Proposition: Let the Politician vvho leaveth not internal principles unto Divines, be an Atheist or a Mad-man; upon condition that the Di<g ref="char:EOLhyphen"/>vine vvho leaveth not external principles unto Politicians, be a Fool or a Knave.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
